@@ -127,7 +127,7 @@ Generate an image using the `generateImage` method:
 ```php
 use ImageGenerate;
 
-$image = ImageGenerate::generateImage('red');
+$image = ImageGenerate::generateImage('username');
 ```
 
 ---

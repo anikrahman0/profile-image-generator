@@ -1,7 +1,7 @@
 # Noobtrader ImageGenerator
 
 ## Introduction
-The **Noobtrader ImageGenerator** package is a Laravel package for generating customizable images. It provides configuration options for image dimensions, fonts, and more.
+The **Noobtrader ProfileImageGenerator** package is a Laravel package for generating customizable images. It provides configuration options for image dimensions, fonts, and more.
 
 ---
 

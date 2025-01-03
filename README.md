@@ -137,8 +137,3 @@ This package is licensed under [MIT License](LICENSE).
 
 ---
 
-## Support
-For any issues or feature requests, feel free to create an issue on the [GitHub repository](https://github.com/noobtrader/imagegenerator).
-
----
-

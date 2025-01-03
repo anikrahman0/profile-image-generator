@@ -1,0 +1,33 @@
+{
+    "name": "noobtrader/imagegenerator",
+    "description": "A image generator package for laravel application",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Noobtrader\\Imagegenerator\\": "src/"
+        }
+    },
+    "extra":[
+        {
+            "laravel":{
+                "providers":[
+                    "Noobtrader\\Imagegenerator\\ImageGenerateServiceProvider"
+                ],
+                "aliases": {
+                    "ImageGenerate": "Noobtrader\\Imagegenerator\\Facades\\ImageGenerateFacade"
+                }
+            },
+            "resources": [
+                "resources/fonts"
+            ]
+        }
+    ],
+    "authors": [
+        {
+            "name": "Md. Anik Rahman"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
